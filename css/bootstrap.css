@@ -4879,9 +4879,12 @@ input[type="button"].btn-block {
 
 .jumbotron {
   padding: 2rem 1rem;
+  margin-top: 2rem; 
   margin-bottom: 2rem;
-  background-color: #e9ecef;
+  background-color: #4f9bd7;
+  color: white;
   border-radius: 0.3rem;
+
 }
 
 @media (min-width: 576px) {
