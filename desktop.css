@@ -1,0 +1,27 @@
+.btn {
+    width: 200px;
+    background-color: white;
+    color: #4F9BD7;
+}
+
+.container h3 {
+    font-size: 40px;
+    color: #4F9BD7;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.container p {
+    font-size: 20px;
+    color: #4F9BD7;
+    margin-top: -0.6%;
+    margin-left: 12%;
+}
+
+.full {
+    background: url('img/ultimate-guide-to-background-images-in-email-690x362.png');
+    background-position: top;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
