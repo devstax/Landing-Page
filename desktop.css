@@ -156,3 +156,13 @@ button.innerb {
     border-radius: 3.5px;
     color: white;
 }
+
+.comingsoon {
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 200;
+    letter-spacing: 1.5px;
+    color: #211a24cc;
+}
